@@ -2,6 +2,8 @@
 title: "The Latticewild"
 type: "Session Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Latticewild
@@ -18,7 +20,7 @@ Examples:
 
 - A crystal-skinned owlbear that sheds prismatic shards when hit.
 
-### Scenario:
+## Scenario:
 
 - A beast behaves in a patterned way — almost guarding something.
 

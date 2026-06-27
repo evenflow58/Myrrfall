@@ -2,11 +2,13 @@
 title: "The Prism Jacks"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Prism Jacks
 
-### Salvage Runners, Territorial Toughs, Opportunistic Survivors
+## Salvage Runners, Territorial Toughs, Opportunistic Survivors
 
 The Prism Jacks are not a criminal empire or secret cult. They’re locals who survive by scavenging unstable zones before officials lock them down. They know the streets, the salvage routes, and which pylons are “safe enough” to approach.
 

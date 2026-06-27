@@ -2,11 +2,13 @@
 title: "Prize Redemption"
 type: "Reward Table"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Prize Redemption
 
-### How Tickets Work (DM Guidance)
+## How Tickets Work (DM Guidance)
 
 - Each successful carnival game earns **1-2 tickets**
 

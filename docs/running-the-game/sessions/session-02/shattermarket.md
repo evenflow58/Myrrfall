@@ -2,6 +2,8 @@
 title: "The Shattermarket"
 type: "Session Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Shattermarket
@@ -16,7 +18,7 @@ Beyond the stalls, the storm’s colors ripple faintly across every polished sur
 
 **Vibe:**  Cautious optimism. Traders who profit from instability.
 
-### General Rule for Purchases
+## General Rule for Purchases
 
 Nothing here should:
 

@@ -2,11 +2,13 @@
 title: "Refraction's Reach"
 type: "Session Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Refraction's Reach
 
-### Enter
+## Enter
 
 As you step through the portal, the world shifts to fractured light.
 

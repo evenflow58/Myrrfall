@@ -2,11 +2,13 @@
 title: "Session 2: The Prism Expanse"
 type: "Session"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Session 2: The Prism Expanse
 
-### Introducing Kular
+## Introducing Kular
 
 - Work with Dan to figure out instructions on how to get Kular to the expanse as a repair technician. We can say he was dispatched to figure out why the region is getting more wild
 
@@ -28,3 +30,7 @@ status: "Canon"
 - [The Glasswood Child](glasswood-child.md)
 - [Glasslight Hearth](glasslight-hearth.md)
 - [The Eastern Pylon](eastern-pylon.md)
+- [The Echo Crucible](echo-crucible.md)
+- [The Latticewild](latticewild.md)
+- [The Broken Observatory](broken-observatory.md)
+- [Prism Expanse Travel Encounters](../../random-tables/prism-expanse-travel.md)

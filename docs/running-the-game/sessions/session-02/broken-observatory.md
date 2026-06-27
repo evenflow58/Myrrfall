@@ -2,6 +2,8 @@
 title: "The Broken Observatory"
 type: "Session Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Broken Observatory
@@ -12,7 +14,7 @@ Ruins of a spired arcane observation tower built around a floating crystal array
 
 Half collapsed. Half phased out of reality.
 
-### Scenario:
+## Scenario:
 
 - Gravity shifts inside.
 

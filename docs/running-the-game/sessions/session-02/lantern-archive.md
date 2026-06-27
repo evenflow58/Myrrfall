@@ -2,6 +2,8 @@
 title: "The Lantern Archive"
 type: "Session Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Lantern Archive
@@ -22,7 +24,7 @@ This is where people try to make sense of what refuses to be understood.
 
 - Early sketches labeled “Fallen Dawn Initiative.”
 
-**Lore Beat:**  The Prism Expanse was not always like this. There was a surge event decades ago. After that, the first pylons were installed.
+**Lore Beat:**  [The Prism Expanse](../../../lore/world/prism-expanse.md) was not always like this. There was a surge event decades ago. After that, the first pylons were installed.
 
 No record of *why* the surge happened.
 

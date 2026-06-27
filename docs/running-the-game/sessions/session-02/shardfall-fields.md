@@ -2,11 +2,13 @@
 title: "The Shardfall Fields"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Shardfall Fields
 
-### Core Identity
+## Core Identity
 
 A wide basin of fractured pink crystal plains where lightning never fully stops.
 

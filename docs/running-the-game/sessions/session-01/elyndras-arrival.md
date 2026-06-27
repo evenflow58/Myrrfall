@@ -2,11 +2,13 @@
 title: "Elyndra's Arrival"
 type: "Session Scene"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Elyndra's Arrival
 
-### If the party fights
+## If the party fights
 
 “The last echo of magic fades. The Concord guards move swiftly, ushering civilians away and sealing the area with practiced efficiency. Festival music resumes hesitantly in the distance, as if the celebration itself is holding its breath.
 
@@ -14,7 +16,7 @@ Then… the lights dim. Not darkness — just quiet. The banners stop fluttering
 
 A figure steps forward from the edge of the crowd, unnoticed until now. She is not armored, nor robed in splendor. She wears pale, travel-worn clothes that glow faintly, like starlight caught in cloth. Her eyes meet each of yours in turn, and when she speaks, it feels like she’s been speaking to you for a long time already.”
 
-#### Elyndra Vale — The Last Light
+### Elyndra Vale — The Last Light
 
 “You did not have to act,” she says softly. “Many did not. But you did.”
 
@@ -142,7 +144,7 @@ She confirms the players’ instincts — *they were right to intervene*.
 
 #### 2. Urgency Without Panic
 
-“The Ashen Remnant is only one thread. Others pull at the world in quieter ways. If left alone, they will decide the future for everyone else.”
+“The [Ashen Remnant](../../../lore/factions/ashen-remnant.md) is only one thread. Others pull at the world in quieter ways. If left alone, they will decide the future for everyone else.”
 
 She frames inaction as *still a choice* — one she knows they won’t like.
 
@@ -172,7 +174,7 @@ Her smile is small but sincere.
 
 ### ELYNDRA’S REFRAME: “THE LIGHT DOES NOT CHOOSE QUICKLY”
 
-Instead of immediately offering paths to Bramblewick / Prism Expanse / Laughing Deep, Elyndra pauses.
+Instead of immediately offering paths to [Bramblewick](../../../lore/locations/bramblewick.md) / Prism Expanse / Laughing Deep, Elyndra pauses.
 
 She **does not yet believe** they are ready.
 

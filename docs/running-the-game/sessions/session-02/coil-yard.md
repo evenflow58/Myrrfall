@@ -2,6 +2,8 @@
 title: "The Coil Yard"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Coil Yard
@@ -40,7 +42,7 @@ It’s a place of constant repair.
 
 **Lore Drop:** These pylons weren’t originally built here. They were adapted.
 
-### Mira Flintgear — Senior Harmonics Engineer
+## Mira Flintgear — Senior Harmonics Engineer
 
 **Race:** Rock Gnome **Energy:** Fast-talking, precise, permanently ink-smudged fingers **Role:** Stabilization specialist, Kular’s counterpart (and occasional rival)
 

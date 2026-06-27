@@ -2,13 +2,15 @@
 title: "The Eastern Pylon"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Eastern Pylon
 
 The ground ahead fractures into a jagged clearing where the eastern pylon leans at a dangerous angle, its crystal rings misaligned and pulsing with uneven light. Thin arcs of energy snap between nearby shards, and the air hums with a rising, discordant tone that vibrates in your chest. With each pulse, the surrounding glasswood bends slightly inward—as if the land itself is being pulled out of harmony.
 
-### Location & Setup
+## Location & Setup
 
 - The pylon is **half-buried in fractured crystal terrain**, humming with unstable resonance.
 

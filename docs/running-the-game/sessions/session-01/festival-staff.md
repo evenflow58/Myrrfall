@@ -2,11 +2,13 @@
 title: "Festival Staff"
 type: "Session NPCs"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Festival Staff
 
-### Ticket Taker
+## Ticket Taker
 
 **Name:** Marn Vickle **Role:** Ticket Counter & Prize Redeemer **Description:**  A harried human with ink-stained fingers, surrounded by dangling prizes and a suspiciously heavy lockbox.
 

@@ -2,13 +2,15 @@
 title: "The Glasswood Child"
 type: "Quest"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Glasswood Child
 
 You want this to *interrupt normal play*, not feel like a quest giver.
 
-### Read Aloud (Trigger Moment)
+## Read Aloud (Trigger Moment)
 
 A sharp crack splits the air—like glass snapping under pressure.
 

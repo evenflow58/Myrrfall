@@ -2,6 +2,8 @@
 title: "The Glasswood Refuge"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Glasswood Refuge
@@ -12,13 +14,13 @@ A small settlement built from translucent, magically hardened trees.
 
 The inhabitants harvest prism-glass sap and survive by predicting magic fluctuations.
 
-### Mini Event: Shaping the Glasswood
+## Mini Event: Shaping the Glasswood
 
 **Location:** Sapglass Workshop **NPC Host:** Mira Quillspindle (gnome artificer)
 
 This event can happen while the party is waiting for news about the unstable child, or simply while exploring the refuge.
 
-#### Read-Aloud Introduction
+### Read-Aloud Introduction
 
 Inside the workshop, the air smells faintly of sap and hot resin. Long planks of translucent glasswood rest on heavy work tables, their inner veins glowing faintly like trapped lightning.
 

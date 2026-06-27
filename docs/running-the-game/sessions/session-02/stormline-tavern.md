@@ -2,6 +2,8 @@
 title: "The Stormline Tavern"
 type: "Session Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Stormline Tavern
@@ -30,7 +32,7 @@ Here, the storm feels far enough away to drink to surviving it.
 
 - “The pylon out there hums at night, even when readings say it shouldn’t.”
 
-### Captain Rhoric Vale — Storm Prospector
+## Captain Rhoric Vale — Storm Prospector
 
 **Race:** Human **Energy:** Weathered, confident, slightly reckless **Role:** Field guide who has survived the Shardfall Fields
 

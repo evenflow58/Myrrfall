@@ -2,6 +2,8 @@
 title: "Session 1: Festival of the Fallen Dawn"
 type: "Session"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Session 1: Festival of the Fallen Dawn
@@ -12,7 +14,7 @@ status: "Canon"
 
 Festival Sound board
 
-#### OVERVIEW
+### OVERVIEW
 
 - Annual festival celebrating the Fallen Dawn heroes.
 
@@ -24,7 +26,7 @@ Festival Sound board
 
 - PCs can explore, participate in games, gather rumors, and optionally face their **first minor villain incident**.
 
-The streets of the town are alive with color and movement. Banners flap in the breeze, each bearing a name etched in gold: Aurelion Vex, Seraphine, Thorne, Maelis, Elyndra. Musicians play triumphant tunes, performers twist and dance through the crowd, and the smell of roasted nuts, spiced pastries, and candied fruits fills the air.
+The streets of the town are alive with color and movement. Banners flap in the breeze, each bearing a name etched in gold: [Aurelion Vex](../../../lore/heroes/aurelion-vex.md), Seraphine, Thorne, Maelis, Elyndra. Musicians play triumphant tunes, performers twist and dance through the crowd, and the smell of roasted nuts, spiced pastries, and candied fruits fills the air.
 
 You’ve heard the names before — in stories, in songs, in whispers at taverns — but never up close. Some say these heroes never existed, others treat them as gods. Today, the whole town celebrates them, and everyone gets a day off to honor deeds both real and imagined.
 

@@ -2,13 +2,15 @@
 title: "Session 2 Choice Hooks"
 type: "Quest Hooks"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Session 2 Choice Hooks
 
 Elyndra presents **three paths**, each tied to a different tone and threat. You can read these directly.
 
-### Option 1 — The Growing Silence
+## Option 1 — The Growing Silence
 
 “There is a place where the roads do not stay where you left them. Where a path you walked yesterday may curve away from you today—unless you walk with intent.
 

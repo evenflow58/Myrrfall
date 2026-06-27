@@ -2,6 +2,8 @@
 title: "Festival Plaza Combat"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Festival Plaza Combat
@@ -16,7 +18,7 @@ The city guards—stalwart, armored, and disciplined—stand watch over the crow
 
 The plaza has become a controlled battlefield: **civilians are panicked, stalls block paths, and magical lantern posts hum with energy**. It is up to the party to act.
 
-### Battlefield Features
+## Battlefield Features
 
 | Feature | Details / Mechanics |
 | --- | --- |

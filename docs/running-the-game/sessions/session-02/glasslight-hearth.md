@@ -2,6 +2,8 @@
 title: "Glasslight Hearth"
 type: "Encounter"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Glasslight Hearth
@@ -10,7 +12,7 @@ status: "Canon"
 
 **Read-Aloud:**  “As you step inside the Glasslight Hearth, a faint hum of stressed magic hits your ears. Bram Fiddlebranch, the gnome keeper, is muttering over a jumble of pipes that snake through the tavern’s walls and floor. One tap drips colored liquid slowly, the other spurts harmless sparks. Steam curls from a crooked spout near the bar. ‘I swear,’ Bram grumbles, ‘these pipes were fine yesterday… something’s… not right.’”
 
-### Objectives for the Players
+## Objectives for the Players
 
 The party can attempt to **diagnose and stabilize the magical plumbing** to get the tavern back to normal.
 
