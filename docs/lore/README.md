@@ -34,6 +34,17 @@ status: "Canon"
 - [Bell-Touched Lysa](villains/bell-touched-lysa.md)
 - [Faction Map](factions/faction-map.md)
 
+## Browse by Section
+
+- [World](world/README.md)
+- [Heroes](heroes/README.md)
+- [Villains](villains/README.md)
+- [Factions](factions/README.md)
+- [Locations](locations/README.md)
+- [NPCs](npcs/README.md)
+- [Creatures](creatures/README.md)
+- [Items](items/README.md)
+
 ## Related Pages
 
 - [Documentation home](../README.md)

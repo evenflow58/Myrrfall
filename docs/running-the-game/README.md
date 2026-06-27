@@ -37,6 +37,14 @@ status: "Canon"
 - [The Central Phenomenon](quests/central-phenomenon.md)
 - [Velrix Escalation Track](mechanics/velrix-escalation-track.md)
 
+## Browse by Section
+
+- [Mechanics](mechanics/README.md)
+- [Sessions](sessions/README.md)
+- [Encounters](encounters/README.md)
+- [Quests](quests/README.md)
+- [Random Tables](random-tables/README.md)
+
 ## Related Pages
 
 - [Documentation home](../README.md)

@@ -186,4 +186,10 @@ After the interview, summarize in **3 bullets**:
 
 ## Related Pages
 
+- [Myrrfall](../docs/lore/world/myrrfall.md)
+- [Stormreach Carnival](../docs/lore/locations/stormreach-carnival.md)
+- [Luminara](../docs/lore/locations/luminara.md)
+- [The Laughing Deep](../docs/lore/locations/laughing-deep.md)
+- [Bramblewick](../docs/lore/locations/bramblewick.md)
+- [The Fallen Dawn](../docs/lore/heroes/fallen-dawn.md)
 - [Character Questions](../docs/player-guide/character-questions.md)
