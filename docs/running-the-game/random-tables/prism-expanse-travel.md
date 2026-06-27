@@ -44,6 +44,7 @@ Repeat as party moves; higher IP → GM can **increase damage, frequency, or DCs
 
 ## Related Pages
 
+- [The Eastern Pylon](../sessions/session-02/eastern-pylon.md)
 - [The Villain Clock](../mechanics/villain-clock.md)
 - [The Central Phenomenon](../quests/central-phenomenon.md)
 - [Velrix Escalation Track](../mechanics/velrix-escalation-track.md)

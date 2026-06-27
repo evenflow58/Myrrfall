@@ -166,6 +166,8 @@ At that point, Maelis stops smiling.
 
 ## Related Pages
 
+- [Maelis Quill](../heroes/maelis-quill.md)
+- [The Gilded Knives](../factions/gilded-knives.md)
 - [Myrrfall](../world/myrrfall.md)
 - [The Prism Expanse](../world/prism-expanse.md)
 - [Stormreach Carnival](stormreach-carnival.md)

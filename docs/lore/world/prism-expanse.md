@@ -78,6 +78,7 @@ status: "Canon"
 
 ## Related Pages
 
+- [The Fallen Dawn](../heroes/fallen-dawn.md)
 - [Myrrfall](myrrfall.md)
 - [Stormreach Carnival](../locations/stormreach-carnival.md)
 - [Luminara](../locations/luminara.md)

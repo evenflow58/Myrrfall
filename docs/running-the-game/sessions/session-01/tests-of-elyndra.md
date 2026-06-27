@@ -409,6 +409,7 @@ Choice.
 
 ## Related Pages
 
+- [Bramblewick](../../../lore/locations/bramblewick.md)
 - [Session 1: Festival of the Fallen Dawn](README.md)
 - [Festival Layout](festival-layout.md)
 - [Festival Staff](festival-staff.md)

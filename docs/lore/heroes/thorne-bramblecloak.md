@@ -36,6 +36,7 @@ status: "Canon"
 
 ## Related Pages
 
+- [Myrrfall](../world/myrrfall.md)
 - [The Fallen Dawn](fallen-dawn.md)
 - [Aurelion Vex](aurelion-vex.md)
 - [Seraphine Emberfall](seraphine-emberfall.md)

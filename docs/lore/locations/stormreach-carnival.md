@@ -168,6 +168,9 @@ She is **the reason quests exist**.
 
 ## Related Pages
 
+- [The Fallen Dawn](../heroes/fallen-dawn.md)
+- [Elyndra Vale](../heroes/elyndra-vale.md)
+- [Villains](../villains/README.md)
 - [Myrrfall](../world/myrrfall.md)
 - [The Prism Expanse](../world/prism-expanse.md)
 - [Luminara](luminara.md)

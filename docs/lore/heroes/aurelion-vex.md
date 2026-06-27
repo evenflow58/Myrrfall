@@ -38,6 +38,8 @@ status: "Canon"
 
 ## Related Pages
 
+- [Myrrfall](../world/myrrfall.md)
+- [Villains](../villains/README.md)
 - [The Fallen Dawn](fallen-dawn.md)
 - [Seraphine Emberfall](seraphine-emberfall.md)
 - [Thorne Bramblecloak](thorne-bramblecloak.md)

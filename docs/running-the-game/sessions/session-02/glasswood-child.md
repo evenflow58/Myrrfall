@@ -180,6 +180,7 @@ NOT:
 
 ## Related Pages
 
+- [The Eastern Pylon](eastern-pylon.md)
 - [Session 2: The Prism Expanse](README.md)
 - [Refraction's Reach](refractions-reach.md)
 - [The Prism Jacks](prism-jacks.md)
@@ -188,3 +189,6 @@ NOT:
 - [The Lantern Archive](lantern-archive.md)
 - [The Stormline Tavern](stormline-tavern.md)
 - [The Shardfall Fields](shardfall-fields.md)
+- [The Glasswood Refuge](glasswood-refuge.md)
+- [Glasslight Hearth](glasslight-hearth.md)
+- [The Echo Crucible](echo-crucible.md)

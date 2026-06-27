@@ -56,6 +56,7 @@ She may quietly give them a redacted journal entry.
 
 ## Related Pages
 
+- [The Prism Expanse](../../../lore/world/prism-expanse.md)
 - [Session 2: The Prism Expanse](README.md)
 - [Refraction's Reach](refractions-reach.md)
 - [The Prism Jacks](prism-jacks.md)
@@ -64,3 +65,6 @@ She may quietly give them a redacted journal entry.
 - [The Stormline Tavern](stormline-tavern.md)
 - [The Shardfall Fields](shardfall-fields.md)
 - [The Glasswood Refuge](glasswood-refuge.md)
+- [The Glasswood Child](glasswood-child.md)
+- [Glasslight Hearth](glasslight-hearth.md)
+- [The Eastern Pylon](eastern-pylon.md)

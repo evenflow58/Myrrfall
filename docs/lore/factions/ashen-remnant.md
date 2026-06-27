@@ -42,40 +42,17 @@ status: "Canon"
 
 - Can force Seraphine to intervene
 
-## Pyraxis the Unbound — Fire Given Will
-
-**Role:** Elemental juggernaut
-
-**Persona:** Exultant, theatrical, dangerous
-
-**Tactics:**
-
-- Area denial, explosions
-
-- Thrives in chaos and collateral damage
-
-**Evolution:**
-
-- *Early:* Semi-stable elemental avatar
-
-- *Mid:* Gains cultist support and ritual boosts
-
-- *Late:* Near-cataclysmic walking disaster
-
-**Signature Ability:** *Cascading Ignition* — Damage spreads unpredictably
-
-**Clock Interaction:**
-
-- Rapidly advances **Resurgence**
-
-- Forces Seraphine-related choices
-
 ## Related Pages
 
+- [The Prism Expanse](../world/prism-expanse.md)
+- [Stormreach Carnival](../locations/stormreach-carnival.md)
 - [Villains](../villains/README.md)
 - [The Concord of the Final Shape](concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
+- [Pyraxis the Unbound](../villains/pyraxis-the-unbound.md)
 - [The Verdant Silence](verdant-silence.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)
 - [The Gilded Knives](gilded-knives.md)
 - [The Shattered Tome](shattered-tome.md)
+- [Faeloria Inkheart](../villains/faeloria-inkheart.md)
 - [The Choir of the Drowned Laugh](choir-of-the-drowned-laugh.md)
-- [Faction Map](faction-map.md)

@@ -84,3 +84,7 @@ The party can attempt to **diagnose and stabilize the magical plumbing** to get 
 - [The Lantern Archive](lantern-archive.md)
 - [The Stormline Tavern](stormline-tavern.md)
 - [The Shardfall Fields](shardfall-fields.md)
+- [The Glasswood Refuge](glasswood-refuge.md)
+- [The Glasswood Child](glasswood-child.md)
+- [The Eastern Pylon](eastern-pylon.md)
+- [The Echo Crucible](echo-crucible.md)

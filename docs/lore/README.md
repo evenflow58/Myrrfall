@@ -22,11 +22,16 @@ status: "Canon"
 - [Elyndra Vale](heroes/elyndra-vale.md)
 - [Villains](villains/README.md)
 - [The Concord of the Final Shape](factions/concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](villains/magistrate-halrix-coil.md)
 - [The Ashen Remnant](factions/ashen-remnant.md)
+- [Pyraxis the Unbound](villains/pyraxis-the-unbound.md)
 - [The Verdant Silence](factions/verdant-silence.md)
+- [Kess Rootbound](villains/kess-rootbound.md)
 - [The Gilded Knives](factions/gilded-knives.md)
 - [The Shattered Tome](factions/shattered-tome.md)
+- [Faeloria Inkheart](villains/faeloria-inkheart.md)
 - [The Choir of the Drowned Laugh](factions/choir-of-the-drowned-laugh.md)
+- [Bell-Touched Lysa](villains/bell-touched-lysa.md)
 - [Faction Map](factions/faction-map.md)
 
 ## Related Pages

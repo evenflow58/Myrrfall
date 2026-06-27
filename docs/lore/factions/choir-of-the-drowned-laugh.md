@@ -42,38 +42,17 @@ status: "Canon"
 
 - Exposes the cost of ignored trauma
 
-## Bell-Touched Lysa — The Smiling Echo
-
-**Role:** Illusionist, psychic disruptor
-
-**Persona:** Cheerful, unsettlingly sincere
-
-**Tactics:**
-
-- Splits the party’s perceptions
-
-- Weaponizes humor and nostalgia
-
-**Evolution:**
-
-- *Early:* Street performer spreading influence
-
-- *Mid:* Cult figure with warped followers
-
-- *Late:* Living conduit to the Laughing Deep
-
-**Signature Ability:** *Shared Punchline* — Pain and confusion ripple across targets
-
-**Clock Interaction:**
-
-- Advances **Legacy** and **Revelation** together
-
 ## Related Pages
 
+- [The Laughing Deep](../locations/laughing-deep.md)
 - [Villains](../villains/README.md)
 - [The Concord of the Final Shape](concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
 - [The Ashen Remnant](ashen-remnant.md)
+- [Pyraxis the Unbound](../villains/pyraxis-the-unbound.md)
 - [The Verdant Silence](verdant-silence.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)
 - [The Gilded Knives](gilded-knives.md)
 - [The Shattered Tome](shattered-tome.md)
-- [Faction Map](faction-map.md)
+- [Faeloria Inkheart](../villains/faeloria-inkheart.md)
+- [Bell-Touched Lysa](../villains/bell-touched-lysa.md)

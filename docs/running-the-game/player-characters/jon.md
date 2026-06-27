@@ -128,6 +128,9 @@ After the interview, summarize in **3 bullets**:
 
 ## Related Pages
 
+- [Myrrfall](../../lore/world/myrrfall.md)
+- [The Fallen Dawn](../../lore/heroes/fallen-dawn.md)
+- [Character Interview Worksheet](../../../templates/character-interview-worksheet.md)
 - [The Villain Clock](../mechanics/villain-clock.md)
 - [Prism Expanse Travel Encounters](../random-tables/prism-expanse-travel.md)
 - [The Central Phenomenon](../quests/central-phenomenon.md)

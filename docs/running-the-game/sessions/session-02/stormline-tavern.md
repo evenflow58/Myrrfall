@@ -62,11 +62,15 @@ He believes something in the storm is learning.
 
 ## Related Pages
 
+- [The Shardfall Fields](shardfall-fields.md)
 - [Session 2: The Prism Expanse](README.md)
 - [Refraction's Reach](refractions-reach.md)
 - [The Prism Jacks](prism-jacks.md)
 - [The Coil Yard](coil-yard.md)
 - [The Shattermarket](shattermarket.md)
 - [The Lantern Archive](lantern-archive.md)
-- [The Shardfall Fields](shardfall-fields.md)
 - [The Glasswood Refuge](glasswood-refuge.md)
+- [The Glasswood Child](glasswood-child.md)
+- [Glasslight Hearth](glasslight-hearth.md)
+- [The Eastern Pylon](eastern-pylon.md)
+- [The Echo Crucible](echo-crucible.md)

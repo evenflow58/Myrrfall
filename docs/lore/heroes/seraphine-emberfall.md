@@ -36,6 +36,8 @@ status: "Canon"
 
 ## Related Pages
 
+- [Myrrfall](../world/myrrfall.md)
+- [The Prism Expanse](../world/prism-expanse.md)
 - [The Fallen Dawn](fallen-dawn.md)
 - [Aurelion Vex](aurelion-vex.md)
 - [Thorne Bramblecloak](thorne-bramblecloak.md)

@@ -32,6 +32,8 @@ Which way will you wander first? To the bustling puzzle tents, the dazzling fire
 
 ## Related Pages
 
+- [The Fallen Dawn](../../../lore/heroes/fallen-dawn.md)
+- [Aurelion Vex](../../../lore/heroes/aurelion-vex.md)
 - [Festival Layout](festival-layout.md)
 - [Festival Staff](festival-staff.md)
 - [Festival Plaza Combat](plaza-combat.md)

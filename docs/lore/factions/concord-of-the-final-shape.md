@@ -42,42 +42,17 @@ status: "Canon"
 
 - Accelerates the **Revelation Clock** if their rhetoric is examined closely
 
-## Magistrate Halrix Coil — Architect of Compliance
-
-**Role:** Political enforcer, battlefield controller
-
-**Persona:** Calm, polite, terrifyingly reasonable
-
-**Tactics:**
-
-- Nonlethal takedowns (early)
-
-- Restraining magic, zone denial
-
-- Uses guards and civilians as leverage
-
-**Evolution:**
-
-- *Early:* Arrests dissidents, cites legal authority
-
-- *Mid:* Deploys magical writs that rewrite battlefield rules
-
-- *Late:* Treats the party as “statistical anomalies” to be removed
-
-**Signature Ability:** *Edict of Stillness* — Areas where movement or spellcasting requires permission
-
-**Clock Interaction:**
-
-- Advances **Resurgence** quietly
-
-- Accelerates **Revelation** if interrogated
-
 ## Related Pages
 
+- [Luminara](../locations/luminara.md)
+- [Aurelion Vex](../heroes/aurelion-vex.md)
 - [Villains](../villains/README.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
 - [The Ashen Remnant](ashen-remnant.md)
+- [Pyraxis the Unbound](../villains/pyraxis-the-unbound.md)
 - [The Verdant Silence](verdant-silence.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)
 - [The Gilded Knives](gilded-knives.md)
 - [The Shattered Tome](shattered-tome.md)
+- [Faeloria Inkheart](../villains/faeloria-inkheart.md)
 - [The Choir of the Drowned Laugh](choir-of-the-drowned-laugh.md)
-- [Faction Map](faction-map.md)

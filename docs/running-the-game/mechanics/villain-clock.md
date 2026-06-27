@@ -208,6 +208,8 @@ But neither does hope.
 
 ## Related Pages
 
+- [The Fallen Dawn](../../lore/heroes/fallen-dawn.md)
+- [Villains](../../lore/villains/README.md)
 - [Prism Expanse Travel Encounters](../random-tables/prism-expanse-travel.md)
 - [The Central Phenomenon](../quests/central-phenomenon.md)
 - [Velrix Escalation Track](velrix-escalation-track.md)

@@ -56,6 +56,7 @@ status: "Canon"
 
 ## Related Pages
 
+- [The Fallen Dawn](../../../lore/heroes/fallen-dawn.md)
 - [Session 1: Festival of the Fallen Dawn](README.md)
 - [Festival Layout](festival-layout.md)
 - [Festival Plaza Combat](plaza-combat.md)

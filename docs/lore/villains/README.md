@@ -72,10 +72,15 @@ If the players remember their names, they’re doing their job.
 
 ## Related Pages
 
+- [Myrrfall](../world/myrrfall.md)
+- [The Fallen Dawn](../heroes/fallen-dawn.md)
+- [Aurelion Vex](../heroes/aurelion-vex.md)
+- [Seraphine Emberfall](../heroes/seraphine-emberfall.md)
+- [Thorne Bramblecloak](../heroes/thorne-bramblecloak.md)
+- [Maelis Quill](../heroes/maelis-quill.md)
+- [Elyndra Vale](../heroes/elyndra-vale.md)
 - [The Concord of the Final Shape](../factions/concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](magistrate-halrix-coil.md)
 - [The Ashen Remnant](../factions/ashen-remnant.md)
+- [Pyraxis the Unbound](pyraxis-the-unbound.md)
 - [The Verdant Silence](../factions/verdant-silence.md)
-- [The Gilded Knives](../factions/gilded-knives.md)
-- [The Shattered Tome](../factions/shattered-tome.md)
-- [The Choir of the Drowned Laugh](../factions/choir-of-the-drowned-laugh.md)
-- [Faction Map](../factions/faction-map.md)

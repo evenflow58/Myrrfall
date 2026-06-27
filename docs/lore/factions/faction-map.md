@@ -36,10 +36,15 @@ status: "Canon"
 
 ## Related Pages
 
+- [Myrrfall](../world/myrrfall.md)
+- [Aurelion Vex](../heroes/aurelion-vex.md)
+- [Seraphine Emberfall](../heroes/seraphine-emberfall.md)
+- [Thorne Bramblecloak](../heroes/thorne-bramblecloak.md)
+- [Maelis Quill](../heroes/maelis-quill.md)
+- [Elyndra Vale](../heroes/elyndra-vale.md)
 - [Villains](../villains/README.md)
-- [The Concord of the Final Shape](concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
 - [The Ashen Remnant](ashen-remnant.md)
+- [Pyraxis the Unbound](../villains/pyraxis-the-unbound.md)
 - [The Verdant Silence](verdant-silence.md)
-- [The Gilded Knives](gilded-knives.md)
-- [The Shattered Tome](shattered-tome.md)
-- [The Choir of the Drowned Laugh](choir-of-the-drowned-laugh.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)

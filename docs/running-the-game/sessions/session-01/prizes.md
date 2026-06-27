@@ -104,6 +104,7 @@ For groups that go *all in* on the festival.
 
 ## Related Pages
 
+- [Villains](../../../lore/villains/README.md)
 - [Session 1: Festival of the Fallen Dawn](README.md)
 - [Festival Layout](festival-layout.md)
 - [Festival Staff](festival-staff.md)

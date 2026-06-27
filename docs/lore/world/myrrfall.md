@@ -14,6 +14,7 @@ Magic left its fingerprints everywhere during the age of the Fallen Dawn. What r
 
 ## Related Pages
 
+- [The Fallen Dawn](../heroes/fallen-dawn.md)
 - [The Prism Expanse](prism-expanse.md)
 - [Stormreach Carnival](../locations/stormreach-carnival.md)
 - [Luminara](../locations/luminara.md)

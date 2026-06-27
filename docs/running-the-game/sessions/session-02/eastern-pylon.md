@@ -294,3 +294,7 @@ Players have **two options**:
 - [The Lantern Archive](lantern-archive.md)
 - [The Stormline Tavern](stormline-tavern.md)
 - [The Shardfall Fields](shardfall-fields.md)
+- [The Glasswood Refuge](glasswood-refuge.md)
+- [The Glasswood Child](glasswood-child.md)
+- [Glasslight Hearth](glasslight-hearth.md)
+- [The Echo Crucible](echo-crucible.md)

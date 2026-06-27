@@ -42,40 +42,17 @@ status: "Canon"
 
 - Complicates alliances with Thorne
 
-## Kess Rootbound — Voice of the Growing Quiet
-
-**Role:** Ambusher, terrain manipulator
-
-**Persona:** Soft-spoken, absolute
-
-**Tactics:**
-
-- Hit-and-run attacks
-
-- Battlefield reshaping mid-fight
-
-**Evolution:**
-
-- *Early:* Guerrilla druid
-
-- *Mid:* Fuses with awakened terrain
-
-- *Late:* Becomes a mobile biome
-
-**Signature Ability:** *Encroaching Green* — Terrain expands each round
-
-**Clock Interaction:**
-
-- Stabilizes wild zones
-
-- Destabilizes settlements
-
 ## Related Pages
 
+- [The Hearth of Giants](../locations/hearth-of-giants.md)
+- [Thorne Bramblecloak](../heroes/thorne-bramblecloak.md)
 - [Villains](../villains/README.md)
 - [The Concord of the Final Shape](concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
 - [The Ashen Remnant](ashen-remnant.md)
+- [Pyraxis the Unbound](../villains/pyraxis-the-unbound.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)
 - [The Gilded Knives](gilded-knives.md)
 - [The Shattered Tome](shattered-tome.md)
+- [Faeloria Inkheart](../villains/faeloria-inkheart.md)
 - [The Choir of the Drowned Laugh](choir-of-the-drowned-laugh.md)
-- [Faction Map](faction-map.md)

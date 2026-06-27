@@ -78,6 +78,9 @@ status: "Canon"
 
 ## Related Pages
 
+- [Thorne Bramblecloak](../heroes/thorne-bramblecloak.md)
+- [The Verdant Silence](../factions/verdant-silence.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)
 - [Myrrfall](../world/myrrfall.md)
 - [The Prism Expanse](../world/prism-expanse.md)
 - [Stormreach Carnival](stormreach-carnival.md)

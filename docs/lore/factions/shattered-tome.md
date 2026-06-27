@@ -48,52 +48,17 @@ Aligned against: **Elyndra Vale**
 
 - Can indirectly push the Resurgence Clock if the party acts on false knowledge
 
-### Faeloria Inkheart — Keeper of Fractured Lore
-
-**Role**
-
-- Master manipulator of information
-
-- Social and arcane trickster
-
-**Persona**
-
-- Elegant, calm, and unnervingly confident
-
-- Speaks as though every lie is undeniable truth
-
-**Tactics**
-
-- Feeds misinformation to the party or enemies
-
-- Uses illusions or enchantments linked to false records
-
-- Forces the party to choose between imperfect truths
-
-**Evolution**
-
-- Early: Plant misleading hints, minor magical interference
-
-- Mid: Corrupt archives, set traps that punish reliance on knowledge
-
-- Late: Confronts Elyndra directly with powerful magical and social manipulation
-
-**Signature Ability**
-
-- *Script of Misguidance*: Can rewrite knowledge in real time—pages, signs, even magical wards can change meaning under her influence
-
-**Clock Interaction**
-
-- Rapidly advances Revelation Clock if unchecked
-
-- Forces Elyndra (and the party) to make morally fraught choices about truth
-
 ## Related Pages
 
+- [Myrrfall](../world/myrrfall.md)
+- [Luminara](../locations/luminara.md)
+- [Elyndra Vale](../heroes/elyndra-vale.md)
 - [Villains](../villains/README.md)
 - [The Concord of the Final Shape](concord-of-the-final-shape.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
 - [The Ashen Remnant](ashen-remnant.md)
+- [Pyraxis the Unbound](../villains/pyraxis-the-unbound.md)
 - [The Verdant Silence](verdant-silence.md)
+- [Kess Rootbound](../villains/kess-rootbound.md)
 - [The Gilded Knives](gilded-knives.md)
-- [The Choir of the Drowned Laugh](choir-of-the-drowned-laugh.md)
-- [Faction Map](faction-map.md)
+- [Faeloria Inkheart](../villains/faeloria-inkheart.md)

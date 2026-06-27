@@ -240,10 +240,15 @@ Children laugh as acrobats spin overhead, and adults find themselves smiling wit
 
 ## Related Pages
 
+- [Myrrfall](../../../lore/world/myrrfall.md)
+- [Aurelion Vex](../../../lore/heroes/aurelion-vex.md)
+- [Seraphine Emberfall](../../../lore/heroes/seraphine-emberfall.md)
+- [Thorne Bramblecloak](../../../lore/heroes/thorne-bramblecloak.md)
+- [Maelis Quill](../../../lore/heroes/maelis-quill.md)
+- [Elyndra Vale](../../../lore/heroes/elyndra-vale.md)
 - [Session 1: Festival of the Fallen Dawn](README.md)
 - [Festival Staff](festival-staff.md)
 - [Festival Plaza Combat](plaza-combat.md)
 - [Prize Redemption](prizes.md)
 - [Elyndra's Arrival](elyndras-arrival.md)
 - [The Tests of Elyndra](tests-of-elyndra.md)
-- [Session 2 Choice Hooks](session-02-hooks.md)

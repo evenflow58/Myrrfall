@@ -188,6 +188,11 @@ She offers **a test**, not a command.
 
 ## Related Pages
 
+- [Bramblewick](../../../lore/locations/bramblewick.md)
+- [The Fallen Dawn](../../../lore/heroes/fallen-dawn.md)
+- [Elyndra Vale](../../../lore/heroes/elyndra-vale.md)
+- [Villains](../../../lore/villains/README.md)
+- [The Ashen Remnant](../../../lore/factions/ashen-remnant.md)
 - [Session 1: Festival of the Fallen Dawn](README.md)
 - [Festival Layout](festival-layout.md)
 - [Festival Staff](festival-staff.md)

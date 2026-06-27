@@ -16,6 +16,7 @@ status: "Canon"
 
 ## Related Pages
 
+- [The Prism Expanse](../../../lore/world/prism-expanse.md)
 - [Refraction's Reach](refractions-reach.md)
 - [The Prism Jacks](prism-jacks.md)
 - [The Coil Yard](coil-yard.md)
@@ -24,3 +25,6 @@ status: "Canon"
 - [The Stormline Tavern](stormline-tavern.md)
 - [The Shardfall Fields](shardfall-fields.md)
 - [The Glasswood Refuge](glasswood-refuge.md)
+- [The Glasswood Child](glasswood-child.md)
+- [Glasslight Hearth](glasslight-hearth.md)
+- [The Eastern Pylon](eastern-pylon.md)

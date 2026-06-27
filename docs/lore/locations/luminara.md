@@ -91,6 +91,10 @@ status: "Canon"
 ## Related Pages
 
 - [Myrrfall](../world/myrrfall.md)
+- [Aurelion Vex](../heroes/aurelion-vex.md)
+- [Maelis Quill](../heroes/maelis-quill.md)
+- [Elyndra Vale](../heroes/elyndra-vale.md)
+- [Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)
 - [The Prism Expanse](../world/prism-expanse.md)
 - [Stormreach Carnival](stormreach-carnival.md)
 - [The Laughing Deep](laughing-deep.md)
