@@ -2,70 +2,46 @@
 title: "Myrrfall Documentation"
 type: "Documentation Index"
 status: "Canon"
+audience: "All"
+spoilers: true
 ---
 
 # Myrrfall Documentation
 
-- [Myrrfall](lore/world/myrrfall.md)
-- [The Prism Expanse](lore/world/prism-expanse.md)
-- [Stormreach Carnival](lore/locations/stormreach-carnival.md)
-- [Luminara](lore/locations/luminara.md)
-- [The Laughing Deep](lore/locations/laughing-deep.md)
-- [The Clockfall Vale](lore/locations/clockfall-vale.md)
-- [Bramblewick](lore/locations/bramblewick.md)
-- [The Hearth of Giants](lore/locations/hearth-of-giants.md)
-- [The Fallen Dawn](lore/heroes/fallen-dawn.md)
-- [Aurelion Vex](lore/heroes/aurelion-vex.md)
-- [Seraphine Emberfall](lore/heroes/seraphine-emberfall.md)
-- [Thorne Bramblecloak](lore/heroes/thorne-bramblecloak.md)
-- [Maelis Quill](lore/heroes/maelis-quill.md)
-- [Elyndra Vale](lore/heroes/elyndra-vale.md)
-- [Villains](lore/villains/README.md)
-- [The Concord of the Final Shape](lore/factions/concord-of-the-final-shape.md)
-- [Magistrate Halrix Coil](lore/villains/magistrate-halrix-coil.md)
-- [The Ashen Remnant](lore/factions/ashen-remnant.md)
-- [Pyraxis the Unbound](lore/villains/pyraxis-the-unbound.md)
-- [The Verdant Silence](lore/factions/verdant-silence.md)
-- [Kess Rootbound](lore/villains/kess-rootbound.md)
-- [The Gilded Knives](lore/factions/gilded-knives.md)
-- [The Shattered Tome](lore/factions/shattered-tome.md)
-- [Faeloria Inkheart](lore/villains/faeloria-inkheart.md)
-- [The Choir of the Drowned Laugh](lore/factions/choir-of-the-drowned-laugh.md)
-- [Bell-Touched Lysa](lore/villains/bell-touched-lysa.md)
-- [Faction Map](lore/factions/faction-map.md)
-- [The Villain Clock](running-the-game/mechanics/villain-clock.md)
-- [Campaign Resources](running-the-game/resources.md)
+## Player Documentation
+
+- [Player Guide](player-guide/README.md)
 - [Character Questions](player-guide/character-questions.md)
-- [Character Interview Worksheet](../templates/character-interview-worksheet.md)
-- [Dinkel's Character](running-the-game/player-characters/dinkel.md)
-- [Jon's Character](running-the-game/player-characters/jon.md)
-- [Session 1: Festival of the Fallen Dawn](running-the-game/sessions/session-01/README.md)
-- [Festival Layout](running-the-game/sessions/session-01/festival-layout.md)
-- [Festival Staff](running-the-game/sessions/session-01/festival-staff.md)
-- [Festival Plaza Combat](running-the-game/sessions/session-01/plaza-combat.md)
-- [Prize Redemption](running-the-game/sessions/session-01/prizes.md)
-- [Elyndra's Arrival](running-the-game/sessions/session-01/elyndras-arrival.md)
-- [The Tests of Elyndra](running-the-game/sessions/session-01/tests-of-elyndra.md)
-- [Session 2 Choice Hooks](running-the-game/sessions/session-01/session-02-hooks.md)
-- [Session 2: The Prism Expanse](running-the-game/sessions/session-02/README.md)
-- [Refraction's Reach](running-the-game/sessions/session-02/refractions-reach.md)
-- [The Prism Jacks](running-the-game/sessions/session-02/prism-jacks.md)
-- [The Coil Yard](running-the-game/sessions/session-02/coil-yard.md)
-- [The Shattermarket](running-the-game/sessions/session-02/shattermarket.md)
-- [The Lantern Archive](running-the-game/sessions/session-02/lantern-archive.md)
-- [The Stormline Tavern](running-the-game/sessions/session-02/stormline-tavern.md)
-- [The Shardfall Fields](running-the-game/sessions/session-02/shardfall-fields.md)
-- [The Glasswood Refuge](running-the-game/sessions/session-02/glasswood-refuge.md)
-- [The Glasswood Child](running-the-game/sessions/session-02/glasswood-child.md)
-- [Glasslight Hearth](running-the-game/sessions/session-02/glasslight-hearth.md)
-- [Prism Expanse Travel Encounters](running-the-game/random-tables/prism-expanse-travel.md)
-- [The Eastern Pylon](running-the-game/sessions/session-02/eastern-pylon.md)
-- [The Echo Crucible](running-the-game/sessions/session-02/echo-crucible.md)
-- [The Latticewild](running-the-game/sessions/session-02/latticewild.md)
-- [The Broken Observatory](running-the-game/sessions/session-02/broken-observatory.md)
-- [The Central Phenomenon](running-the-game/quests/central-phenomenon.md)
-- [Velrix Escalation Track](running-the-game/mechanics/velrix-escalation-track.md)
+
+## Lore Reference
+
+- [World](lore/world/README.md)
+- [Heroes](lore/heroes/README.md)
+- [Villains](lore/villains/README.md)
+- [Factions](lore/factions/README.md)
+- [Locations](lore/locations/README.md)
+- [NPCs](lore/npcs/README.md)
+- [Creatures](lore/creatures/README.md)
+- [Items](lore/items/README.md)
+
+## Running the Game
+
+- [Game Master Index](running-the-game/README.md)
+- [Mechanics](running-the-game/mechanics/README.md)
+- [Sessions](running-the-game/sessions/README.md)
+- [Encounters](running-the-game/encounters/README.md)
+- [Quests](running-the-game/quests/README.md)
+- [Random Tables](running-the-game/random-tables/README.md)
+- [Player Characters](running-the-game/player-characters/README.md)
+
+## Repository Resources
+
+- [Templates](../templates/README.md)
+- [Ideas and Alternatives](../ideas/README.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Changelog](../CHANGELOG.md)
 
 ## Related Pages
 
-- [Documentation home](README.md)
+- [Repository home](../README.md)
+- [Myrrfall world overview](lore/world/myrrfall.md)
