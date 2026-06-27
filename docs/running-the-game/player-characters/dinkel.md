@@ -2,127 +2,62 @@
 title: "Dinkel's Character"
 type: "Player Character"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Dinkel's Character
 
-## Myrrfall Character Interview Worksheet
+## Character Summary
 
-### Player Name: Dinkel
+- **Player:** Dinkel
+- **Character name:** TBD
+- **Ancestry / class:** Warforged/Dhampir; dwarf-sized with big horns / Fighter
+- **Combat preference:** Grid-based combat
 
-### Character Name:
+## Motivation
 
-### Ancestry / Class: Warforged/Dhampir. Dwarf-sized with big horns / Fighter
+- Seeking bad people to feed on because he is powered by blood.
+- Jon’s character may have found him during an adventure.
 
-### Pronouns (optional):
+## Past
 
-### 1. The Spark — Why Adventure?
+His past is unclear: who made him, and why is he a Dhampir?
 
-**Why would your character go on an adventure?**
+## Connection to the World
 
-- Seeking out bad guys to feed on because he’s powered by blood
+He is connected to [Bramblewick](../../lore/locations/bramblewick.md), the Living Forest. He may have wandered out of the forest, or Jon’s character may have found him there.
 
-- Maybe Jon’s character found him during one of his adventures
+## The Fallen Dawn
 
-**In one sentence, what is your character hoping will change by adventuring?**
+He is interested in the mystery of the heroes: were they real, and can they help him? As an outsider, he did not know much about them.
 
-*DM Note: This is the core lever for motivation. You can always threaten, tempt, or evolve this.*
+## Moral Line
 
-### 2. The Past — A Mark Left Behind
+He is against abandoning and betraying people because he feels somewhat abandoned.
 
-**What is one event from your character’s past that still affects them today?**  (It does not need to be dramatic.)
+## Personal Hook
 
-- Unclear on past. Who made me? Why am I a Dhampir?
+He cares about Jon’s character.
 
-Brief description:
+## Party Connection
 
-*DM Note: This is future flashback material, NPC hooks, and villain leverage.*
+He is interested in staying with Jon’s character, though perhaps not the rest of the party. Jon saved or discovered him.
 
-### 3. The World — A Personal Connection
+## Open Questions
 
-**Which part of the world does your character feel most connected to, and why?**  (They don’t have to live there.)
+- What is the history of Dhampir?
+- Who built him?
+- He has never seen a Dhampir.
+- He has heard of Warforged but has never interacted with one.
 
-- Bramblewick (The Living Forest)
+## Tone and Comfort
 
-  - Either wandered out of forest or Jon found him there
-
-Connection (work, family, rumor, fear, curiosity, etc.):
-
-*DM Note: This tells you where to place emotional weight when the party travels.*
-
-### 4. The Fallen Dawn — Myth or Meaning?
-
-**Before the campaign begins, what does your character believe about the Fallen Dawn?**
-
-- Interested in the mystery of the heroes. Are they real? Can they help him?
-
-  - Didn’t know a bunch about them since he’s an outsider
-
-**Have the Fallen Dawn affected your character’s life in any indirect way?** Another mystery to explore.
-
-*DM Note: This lets you personalize reveals when the truth about the Fallen Dawn emerges.*
-
-### 5. The Line — What They Won’t Do
-
-**Is there something your character refuses to do, even if it would help them succeed?**
-
-Examples:
-
-- Against abandoning and betraying people because he feels somewhat abandoned.
-
-Describe briefly:
-
-*DM Note: This defines moral pressure points and dramatic choices.*
-
-### 6. The Hook — Someone or Something That Matters
-
-**Name one thing your character cares about that could be threatened, lost, or changed.**
-
-- Jon’s character
-
-Why does it matter to them?
-
-*DM Note: This is a future clock, consequence, or incentive.*
-
-### 7. The Party — Why These People?
-
-**Why does your character stay with the party?**  (Even if they argue or disagree.)
-
-- Interested in staying with Jon but maybe not the rest. We’ll see.
-
-  - Jon saved or discovered Dinkel
-
-Anything specific tying you to another PC?
-
-*DM Note: This helps prevent “why are we together?” problems later.*
-
-### 8. The Unknown — A Question for the World
-
-**What is one question your character has about the world of Myrrfall?**
-
-Examples:
-
-- History of Dhampir or who built the character
-
-  - Never seen a Dhampir but have seen Warforged like him
-
-  - Heard of Warforged but never interacted with one
-
-*DM Note: This is campaign-theme gold. Feed this directly into long arcs.*
-
-### Optional: Tone & Comfort
-
-**Are there any themes or topics you’d prefer we handle lightly or avoid?**  Nothing at this time
-
-Would like to do grid based combat
+Nothing to avoid at this time.
 
 ## Related Pages
 
-- [Myrrfall](../../lore/world/myrrfall.md)
+- [Jon's Character](jon.md)
 - [Bramblewick](../../lore/locations/bramblewick.md)
 - [The Fallen Dawn](../../lore/heroes/fallen-dawn.md)
 - [Character Interview Worksheet](../../../templates/character-interview-worksheet.md)
-- [The Villain Clock](../mechanics/villain-clock.md)
-- [Prism Expanse Travel Encounters](../random-tables/prism-expanse-travel.md)
-- [The Central Phenomenon](../quests/central-phenomenon.md)
-- [Velrix Escalation Track](../mechanics/velrix-escalation-track.md)

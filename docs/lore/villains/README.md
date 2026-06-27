@@ -2,6 +2,8 @@
 title: "Villains"
 type: "Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Villains
@@ -14,15 +16,15 @@ Each major villain faction mirrors a philosophy of the Fallen Dawn and advances 
 
 ### Major Villain Factions
 
-#### 1.
+#### 1. [The Concord of the Final Shape](../factions/concord-of-the-final-shape.md)
 
-#### 2.
+#### 2. [The Ashen Remnant](../factions/ashen-remnant.md)
 
-#### 3.
+#### 3. [The Verdant Silence](../factions/verdant-silence.md)
 
-#### 4.
+#### 4. [The Gilded Knives](../factions/gilded-knives.md)
 
-#### 5.
+#### 5. [The Shattered Tome](../factions/shattered-tome.md)
 
 ### Minor & Emergent Villains
 

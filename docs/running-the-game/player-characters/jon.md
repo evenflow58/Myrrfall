@@ -2,136 +2,65 @@
 title: "Jon's Character"
 type: "Player Character"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Jon's Character
 
-## Myrrfall Character Interview Worksheet
+## Character Summary
 
-### Player Name: Jon
+- **Player:** Jon
+- **Character name:** TBD
+- **Ancestry:** TBD
+- **Class:** Fighter
+- **Combat preference:** No preference
 
-### Character Name:
+## Motivation
 
-### Ancestry / Class: / Fighter
+Adventuring is the family business. It was decided for him before he had a chance to choose, and he never really considered another career.
 
-### Pronouns (optional):
+## Past
 
-### 1. The Spark — Why Adventure?
+TBD.
 
-**Why would your character go on an adventure?**  (Choose one or explain your own.)
+## Connection to the World
 
-- Adventuring is the family business
+He is connected to [Clockfall Vale](../../lore/locations/clockfall-vale.md). The nature of that connection is TBD.
 
-  - Adventuring was decided for the character before he had a chance to decide. Never really thought of another career.
+## The Fallen Dawn
 
-**In one sentence, what is your character hoping will change by adventuring?**
+He believes they were real heroes and likes them. They affect him aspirationally: if you do a good job, people will like you. Some of that may be cope.
 
-*DM Note: This is the core lever for motivation. You can always threaten, tempt, or evolve this.*
+## Moral Line
 
-### 2. The Past — A Mark Left Behind
+TBD.
 
-**What is one event from your character’s past that still affects them today?**  (It does not need to be dramatic.)
+## Personal Hook
 
-- TBD
+He likes the common man. He thinks he is a common man and could have been a farmer.
 
-Brief description:
+## Party Connection
 
-*DM Note: This is future flashback material, NPC hooks, and villain leverage.*
+Possible reasons he remains with the party:
 
-### 3. The World — A Personal Connection
+- He trusts them.
+- He needs them.
+- They are safer together.
+- He sees potential in someone.
+- He has nowhere else to go.
 
-**Which part of the world does your character feel most connected to, and why?**  (They don’t have to live there.)
+## Open Questions
 
-- Clockfall Vale
+TBD.
 
-- Connection TBD
+## Tone and Comfort
 
-Connection (work, family, rumor, fear, curiosity, etc.):
-
-*DM Note: This tells you where to place emotional weight when the party travels.*
-
-### 4. The Fallen Dawn — Myth or Meaning?
-
-**Before the campaign begins, what does your character believe about the Fallen Dawn?**
-
-- They were real heroes and he likes them
-
-**Have the Fallen Dawn affected your character’s life in any indirect way?**  Aspirationally. If you do a good job people will like you. Maybe some of that is cope.
-
-*DM Note: This lets you personalize reveals when the truth about the Fallen Dawn emerges.*
-
-### 5. The Line — What They Won’t Do
-
-**Is there something your character refuses to do, even if it would help them succeed?**
-
-- TBD
-
-Describe briefly:
-
-*DM Note: This defines moral pressure points and dramatic choices.*
-
-### 6. The Hook — Someone or Something That Matters
-
-**Name one thing your character cares about that could be threatened, lost, or changed.**
-
-- Likes the common man.
-
-Why does it matter to them?
-
-The character thinks they are a common man. He could have been a farmer.
-
-*DM Note: This is a future clock, consequence, or incentive.*
-
-### 7. The Party — Why These People?
-
-**Why does your character stay with the party?**  (Even if they argue or disagree.)
-
-- They trust them
-
-- They need them
-
-- They’re safer together
-
-- They see potential in someone
-
-- They have nowhere else to go
-
-Anything specific tying you to another PC?
-
-*DM Note: This helps prevent “why are we together?” problems later.*
-
-### 8. The Unknown — A Question for the World
-
-**What is one question your character has about the world of Myrrfall?**
-
-Examples:
-
-- TBD
-
-*DM Note: This is campaign-theme gold. Feed this directly into long arcs.*
-
-### Optional: Tone & Comfort
-
-**Are there any themes or topics you’d prefer we handle lightly or avoid?**  Don’t want to get edgy just for the sake
-
-No preference on combat type
-
-#### DM Summary (For You)
-
-After the interview, summarize in **3 bullets**:
-
-- Core motivation:
-
-- Emotional leverage:
-
-- Best location to spotlight this character:
+Avoid becoming edgy merely for its own sake.
 
 ## Related Pages
 
-- [Myrrfall](../../lore/world/myrrfall.md)
+- [Dinkel's Character](dinkel.md)
+- [Clockfall Vale](../../lore/locations/clockfall-vale.md)
 - [The Fallen Dawn](../../lore/heroes/fallen-dawn.md)
 - [Character Interview Worksheet](../../../templates/character-interview-worksheet.md)
-- [The Villain Clock](../mechanics/villain-clock.md)
-- [Prism Expanse Travel Encounters](../random-tables/prism-expanse-travel.md)
-- [The Central Phenomenon](../quests/central-phenomenon.md)
-- [Velrix Escalation Track](../mechanics/velrix-escalation-track.md)
