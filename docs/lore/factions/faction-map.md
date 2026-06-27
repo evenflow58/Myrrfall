@@ -2,6 +2,8 @@
 title: "Faction Map"
 type: "Reference"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Faction Map
@@ -32,7 +34,7 @@ status: "Canon"
 | --- | --- | --- |
 | Resurgence | Aurelion (accelerates), Seraphine (can reverse/advance), Thorne (stabilizes nature / indirect advancement), Maelis (slows temporarily), villains like Concord & Ashen Remnant | Represents the re-emergence of magical or heroic chaos; tied to party’s direct impact |
 | Revelation | Aurelion (accelerates if examined), Elyndra (controls pacing), Shattered Tome (rapidly advances if unchecked), Halrix Coil (accelerates on interrogation) | Represents knowledge and truth disclosure; influences party’s moral decisions |
-| Legacy / Fracture |  |  |
+| Legacy / Fracture | TODO | TODO: Influencers and behavior are not defined in the source. |
 
 ## Related Pages
 

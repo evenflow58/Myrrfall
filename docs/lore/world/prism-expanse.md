@@ -2,13 +2,17 @@
 title: "The Prism Expanse"
 type: "Region"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Prism Expanse
 
-### Overview
+## Overview
 
 - A desolate, magical wasteland where the very fabric of magic is unstable.
+
+> TODO: The source leaves the Expanse’s original terrain unresolved: forests, rivers, or crystalline plains.
 
 - Once a vibrant region (forests, rivers, or maybe crystalline plains), something catastrophic during the Fallen Dawn warped reality here.
 
@@ -38,7 +42,7 @@ status: "Canon"
 
   - Drinking from or manipulating them can temporarily enhance or cripple abilities.
 
-  - Often the site of Ashen Remnant rituals.
+  - Often the site of [Ashen Remnant](../factions/ashen-remnant.md) rituals.
 
 1. **The Researcher’s Enclave**
 
