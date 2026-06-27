@@ -2,6 +2,8 @@
 title: "Kess Rootbound"
 type: "Villain"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Kess Rootbound

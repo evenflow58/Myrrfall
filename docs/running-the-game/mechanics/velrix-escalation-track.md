@@ -2,6 +2,8 @@
 title: "Velrix Escalation Track"
 type: "Mechanic"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Velrix Escalation Track
@@ -10,7 +12,7 @@ The longer the party waits to confront him, the more he adapts.
 
 Track this quietly.
 
-### If Ignored After 1 Clue
+## If Ignored After 1 Clue
 
 He:
 
@@ -24,7 +26,7 @@ He:
 
 He:
 
-- Makes contact with Ashen Remnant field agents.
+- Makes contact with [Ashen Remnant](../../lore/factions/ashen-remnant.md) field agents.
 
 - Begins experimenting outside town perimeter.
 
@@ -58,4 +60,4 @@ He believes:
 
 - [The Villain Clock](villain-clock.md)
 - [Prism Expanse Travel Encounters](../random-tables/prism-expanse-travel.md)
-- [The Central Phenomenon](../quests/central-phenomenon.md)
+- [The Central Phenomenon](../../../ideas/central-phenomenon.md)

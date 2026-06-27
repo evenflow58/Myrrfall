@@ -2,6 +2,8 @@
 title: "Heroes"
 type: "Hero Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Heroes

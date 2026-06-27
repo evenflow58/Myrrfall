@@ -2,6 +2,8 @@
 title: "The Clockfall Vale"
 type: "Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Clockfall Vale

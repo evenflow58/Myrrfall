@@ -2,11 +2,13 @@
 title: "The Shattered Tome"
 type: "Faction"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Shattered Tome
 
-Aligned against: **Elyndra Vale**
+Aligned against: **[Elyndra Vale](../heroes/elyndra-vale.md)**
 
 **Core Identity**
 
@@ -32,7 +34,7 @@ Aligned against: **Elyndra Vale**
 
 - Hidden libraries and ruined archives across Myrrfall
 
-- Luminara (secret compartments beneath the Head Archivist’s tower)
+- [Luminara](../locations/luminara.md) (secret compartments beneath the Head Archivist’s tower)
 
 **Encounter Style**
 

@@ -2,6 +2,8 @@
 title: "Character Interview Worksheet"
 type: "Template"
 status: "Canon"
+audience: "All"
+spoilers: false
 ---
 
 # Character Interview Worksheet
@@ -58,19 +60,19 @@ Brief description:
 
 **Which part of the world does your character feel most connected to, and why?**  (They don’t have to live there.)
 
-- ☐ Luminara (The City of Lights)
+- ☐ [Luminara](../docs/lore/locations/luminara.md) (The City of Lights)
 
-- ☐ Bramblewick (The Living Forest)
+- ☐ [Bramblewick](../docs/lore/locations/bramblewick.md) (The Living Forest)
 
 - ☐ Prism Expanse (Wild Magic Lands)
 
-- ☐ Stormreach Carnival
+- ☐ [Stormreach Carnival](../docs/lore/locations/stormreach-carnival.md)
 
-- ☐ Clockfall Vale
+- ☐ [Clockfall Vale](../docs/lore/locations/clockfall-vale.md)
 
 - ☐ Hearth of Giants
 
-- ☐ The Laughing Deep
+- ☐ [The Laughing Deep](../docs/lore/locations/laughing-deep.md)
 
 - ☐ Somewhere else / unknown
 

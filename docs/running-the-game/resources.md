@@ -2,6 +2,8 @@
 title: "Campaign Resources"
 type: "Reference"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Campaign Resources
@@ -18,5 +20,5 @@ status: "Canon"
 
 - [The Villain Clock](mechanics/villain-clock.md)
 - [Prism Expanse Travel Encounters](random-tables/prism-expanse-travel.md)
-- [The Central Phenomenon](quests/central-phenomenon.md)
+- [The Central Phenomenon](../../ideas/central-phenomenon.md)
 - [Velrix Escalation Track](mechanics/velrix-escalation-track.md)

@@ -2,6 +2,8 @@
 title: "Factions"
 type: "Faction Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Factions

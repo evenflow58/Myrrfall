@@ -2,6 +2,8 @@
 title: "Magistrate Halrix Coil"
 type: "Villain"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Magistrate Halrix Coil

@@ -2,19 +2,21 @@
 title: "Luminara"
 type: "Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Luminara
 
-### Overview
+## Overview
 
-- The capital of Myrrfall, **secretly guided by Aurelion Vex**.
+- The capital of Myrrfall, **secretly guided by [Aurelion Vex](../heroes/aurelion-vex.md)**.
 
 - A **blend of steampunk technology and magic**, where gears, pistons, and steam coexist with enchantments and wards—outsiders often cannot tell which is which.
 
 - **Orderly and impressive**, but that order comes at a cost: pervasive surveillance, strict laws, and hidden manipulation.
 
-- Aurelion controls the city **behind the scenes**, primarily through **Magistrate Halrix Coil** and the **Concord of the Final Shape**, keeping Luminara orderly without revealing his presence.
+- Aurelion controls the city **behind the scenes**, primarily through **[Magistrate Halrix Coil](../villains/magistrate-halrix-coil.md)** and the **[Concord of the Final Shape](../factions/concord-of-the-final-shape.md)**, keeping Luminara orderly without revealing his presence.
 
 ### Districts
 
@@ -24,7 +26,7 @@ status: "Canon"
 
   - **Concord of the Final Shape operations** hidden here, enforcing control subtly.
 
-  - Secret labs or restricted towers contain magical experiments and research into anomalies—formerly Clockfall Vale’s role.
+  - Secret labs or restricted towers contain magical experiments and research into anomalies—formerly [Clockfall Vale](clockfall-vale.md)’s role.
 
   - Streets are clean, orderly, and heavily patrolled; violations are swiftly addressed.
 
@@ -32,7 +34,7 @@ status: "Canon"
 
   - Shadowy undercity: home to merchants, smugglers, and underground factions.
 
-  - Base for **Maelis Quill** and the **Gilded Knives** operations.
+  - Base for **[Maelis Quill](../heroes/maelis-quill.md)** and the **[Gilded Knives](../factions/gilded-knives.md)** operations.
 
   - Narrow alleys, hidden passages, and secret alcoves make it perfect for intrigue, heists, or information gathering.
 
@@ -50,7 +52,7 @@ status: "Canon"
 
   - Experimental wards, enchanted lighting, and magical devices occasionally backfire.
 
-  - Ideal for **research missions, magical puzzles, or espionage**, including Shattered Tome interference or Elyndra Vale’s archives.
+  - Ideal for **research missions, magical puzzles, or espionage**, including [Shattered Tome](../factions/shattered-tome.md) interference or [Elyndra Vale](../heroes/elyndra-vale.md)’s archives.
 
 1. **Marketward**
 

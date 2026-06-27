@@ -2,6 +2,8 @@
 title: "World"
 type: "World Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # World

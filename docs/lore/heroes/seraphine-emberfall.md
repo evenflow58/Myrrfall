@@ -2,6 +2,8 @@
 title: "Seraphine Emberfall"
 type: "Hero"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Seraphine Emberfall

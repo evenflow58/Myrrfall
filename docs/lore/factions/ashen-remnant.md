@@ -2,6 +2,8 @@
 title: "The Ashen Remnant"
 type: "Faction"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Ashen Remnant
@@ -26,9 +28,9 @@ status: "Canon"
 
 **Where They Operate:**
 
-- The Prism Expanse
+- [The Prism Expanse](../world/prism-expanse.md)
 
-- Stormreach Carnival (behind the scenes)
+- [Stormreach Carnival](../locations/stormreach-carnival.md) (behind the scenes)
 
 **Encounter Style:**
 

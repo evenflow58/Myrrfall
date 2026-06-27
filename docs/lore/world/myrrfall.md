@@ -2,6 +2,8 @@
 title: "Myrrfall"
 type: "World"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Myrrfall

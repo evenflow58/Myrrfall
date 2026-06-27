@@ -2,6 +2,8 @@
 title: "Prism Expanse Travel Encounters"
 type: "Random Table"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Prism Expanse Travel Encounters
@@ -19,7 +21,7 @@ status: "Canon"
 | 7 | Resonant Cracks | Crystal terrain hums with harmonic pulses; stepping wrong amplifies resonance. | Insight DC 12 / Arcana DC 13 to predict safe spots, Athletics DC 12 / Acrobatics DC 12 to cross | Damaged Pylon Component ×1 |
 | 8 | Fleeing Prism Beetles | Tiny crystalline insects scuttle from a pulse, blocking paths. | Nature DC 12 / Arcana DC 12 to calm, Dexterity DC 12 to dodge | Prism Jerky ×1 |
 
-### Rolling the Travel Encounter with Instability
+## Rolling the Travel Encounter with Instability
 
 1. Roll **d8** for the encounter.
 
@@ -46,5 +48,5 @@ Repeat as party moves; higher IP → GM can **increase damage, frequency, or DCs
 
 - [The Eastern Pylon](../sessions/session-02/eastern-pylon.md)
 - [The Villain Clock](../mechanics/villain-clock.md)
-- [The Central Phenomenon](../quests/central-phenomenon.md)
+- [The Central Phenomenon](../../../ideas/central-phenomenon.md)
 - [Velrix Escalation Track](../mechanics/velrix-escalation-track.md)

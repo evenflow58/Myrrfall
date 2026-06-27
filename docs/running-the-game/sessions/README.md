@@ -2,6 +2,8 @@
 title: "Sessions"
 type: "Session Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Sessions

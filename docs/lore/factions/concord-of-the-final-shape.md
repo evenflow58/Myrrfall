@@ -2,6 +2,8 @@
 title: "The Concord of the Final Shape"
 type: "Faction"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Concord of the Final Shape
@@ -14,7 +16,7 @@ status: "Canon"
 
 **Theme:** Law, inevitability, strategic cruelty
 
-**Leader:** *The Harmon Archon* (public figurehead; secretly guided by Aurelion Vex)
+**Leader:** *The Harmon Archon* (public figurehead; secretly guided by [Aurelion Vex](../heroes/aurelion-vex.md))
 
 **Methods:**
 
@@ -26,9 +28,9 @@ status: "Canon"
 
 **Where They Operate:**
 
-- Luminara (Sunspire Ward, quietly)
+- [Luminara](../locations/luminara.md) (Sunspire Ward, quietly)
 
-- Clockfall Vale (time-regulation experiments)
+- [Clockfall Vale](../locations/clockfall-vale.md) (time-regulation experiments)
 
 **Encounter Style:**
 

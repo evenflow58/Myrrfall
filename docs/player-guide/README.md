@@ -2,6 +2,8 @@
 title: "Player Guide"
 type: "Player Guide Index"
 status: "Canon"
+audience: "Player"
+spoilers: false
 ---
 
 # Player Guide

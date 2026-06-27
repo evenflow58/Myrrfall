@@ -2,6 +2,8 @@
 title: "The Villain Clock"
 type: "Mechanic"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Villain Clock
@@ -128,7 +130,7 @@ This clock advances when:
 
 **5 Segments: Legacy Rewritten**
 
-- The Fallen Dawn’s story is permanently changed
+- [The Fallen Dawn](../../lore/heroes/fallen-dawn.md)’s story is permanently changed
 
 - One hero becomes something else
 
@@ -211,5 +213,5 @@ But neither does hope.
 - [The Fallen Dawn](../../lore/heroes/fallen-dawn.md)
 - [Villains](../../lore/villains/README.md)
 - [Prism Expanse Travel Encounters](../random-tables/prism-expanse-travel.md)
-- [The Central Phenomenon](../quests/central-phenomenon.md)
+- [The Central Phenomenon](../../../ideas/central-phenomenon.md)
 - [Velrix Escalation Track](velrix-escalation-track.md)

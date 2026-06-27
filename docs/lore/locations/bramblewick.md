@@ -2,15 +2,17 @@
 title: "Bramblewick"
 type: "Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Bramblewick
 
-### Overview
+## Overview
 
 - Once an **unstable, deadly forest**, constantly shifting with carnivorous plants and aggressive predators. Travelers would easily get lost—or worse.
 
-- **Tempered by Thorne Bramblecloak** through deep communion: the forest is now **wild but stable**, with areas that are calm, navigable, and capable of sustaining settlements.
+- **Tempered by [Thorne Bramblecloak](../heroes/thorne-bramblecloak.md)** through deep communion: the forest is now **wild but stable**, with areas that are calm, navigable, and capable of sustaining settlements.
 
 - The forest **remains semi-sentient**, responding to intention, emotion, or ritual. Its aid is subtle: guiding travelers, providing food, or defending its denizens if provoked.
 
@@ -40,7 +42,7 @@ status: "Canon"
 
 1. **Wild Zones**
 
-  - Pockets of untamed forest where the Verdant Silence is strongest.
+  - Pockets of untamed forest where the [Verdant Silence](../factions/verdant-silence.md) is strongest.
 
   - Dense, shifting terrain; hostile flora and fauna; magical traps set by insurgents.
 
@@ -54,7 +56,7 @@ status: "Canon"
 
   - Areas overtaken by The Verdant Silence: aggressively rewilded zones that resist human settlement.
 
-  - Encounters here involve **terrain manipulation**, sentient plant hazards, and ambushes by Kess Rootbound’s operatives.
+  - Encounters here involve **terrain manipulation**, sentient plant hazards, and ambushes by [Kess Rootbound](../villains/kess-rootbound.md)’s operatives.
 
 ### Narrative Hooks / Encounters
 

@@ -2,6 +2,8 @@
 title: "Stormreach Carnival"
 type: "Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Stormreach Carnival

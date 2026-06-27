@@ -2,6 +2,8 @@
 title: "Thorne Bramblecloak"
 type: "Hero"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Thorne Bramblecloak

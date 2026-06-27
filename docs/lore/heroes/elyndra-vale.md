@@ -2,6 +2,8 @@
 title: "Elyndra Vale"
 type: "Hero"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Elyndra Vale
@@ -16,7 +18,7 @@ status: "Canon"
 
 **True Nature:** She knows Aurelion’s plan—and believes it *might* be necessary. Her hesitation is what allows it to continue.
 
-**Current Status:** Head Archivist of Luminara, mentor figure to the party.
+**Current Status:** Head Archivist of [Luminara](../locations/luminara.md), mentor figure to the party.
 
 **Philosophy:**
 

@@ -2,6 +2,8 @@
 title: "Pyraxis the Unbound"
 type: "Villain"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Pyraxis the Unbound

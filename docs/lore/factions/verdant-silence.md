@@ -2,6 +2,8 @@
 title: "The Verdant Silence"
 type: "Faction"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Verdant Silence
@@ -14,7 +16,7 @@ status: "Canon"
 
 **Theme:** Nature reclaiming space, quiet hostility
 
-**Leader:** *Root-Seer Myr* (former druid of Thorne Bramblecloak)
+**Leader:** *Root-Seer Myr* (former druid of [Thorne Bramblecloak](../heroes/thorne-bramblecloak.md))
 
 **Methods:**
 

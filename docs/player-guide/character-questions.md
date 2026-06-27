@@ -2,6 +2,8 @@
 title: "Character Questions"
 type: "Player Guide"
 status: "Canon"
+audience: "Player"
+spoilers: false
 ---
 
 # Character Questions

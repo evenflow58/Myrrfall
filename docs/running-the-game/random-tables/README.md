@@ -2,6 +2,8 @@
 title: "Random Tables"
 type: "Random Table Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Random Tables

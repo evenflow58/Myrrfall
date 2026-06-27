@@ -2,6 +2,8 @@
 title: "Contributing"
 type: "Repository Guide"
 status: "Reference"
+audience: "All"
+spoilers: false
 ---
 
 # Contributing

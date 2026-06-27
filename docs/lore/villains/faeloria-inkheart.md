@@ -2,6 +2,8 @@
 title: "Faeloria Inkheart"
 type: "Villain"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Faeloria Inkheart

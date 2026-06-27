@@ -2,6 +2,8 @@
 title: "Maelis Quill"
 type: "Hero"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Maelis Quill
@@ -16,7 +18,7 @@ status: "Canon"
 
 **True Nature:** Maelis never believed the Dawn could win forever. He prepared escape routes, backups, and contingencies—some of which now empower villains.
 
-**Current Status:** Presumed dead. Actually operating within Luminara’s Gilded Below.
+**Current Status:** Presumed dead. Actually operating within [Luminara](../locations/luminara.md)’s Gilded Below.
 
 **Philosophy:**
 

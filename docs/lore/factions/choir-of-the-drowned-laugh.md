@@ -2,6 +2,8 @@
 title: "The Choir of the Drowned Laugh"
 type: "Faction"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Choir of the Drowned Laugh
@@ -26,7 +28,7 @@ status: "Canon"
 
 **Where They Operate:**
 
-- The Laughing Deep
+- [The Laughing Deep](../locations/laughing-deep.md)
 
 - Traveling performances across regions
 

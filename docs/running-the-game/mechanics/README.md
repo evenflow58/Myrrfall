@@ -2,6 +2,8 @@
 title: "Mechanics"
 type: "Mechanics Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Mechanics

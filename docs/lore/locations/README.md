@@ -2,6 +2,8 @@
 title: "Locations"
 type: "Location Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Locations

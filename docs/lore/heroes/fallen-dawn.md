@@ -2,6 +2,8 @@
 title: "The Fallen Dawn"
 type: "Heroic Company"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Fallen Dawn
@@ -18,7 +20,7 @@ This group is intentionally designed so that:
 
 - Any one of them *could* plausibly be the final antagonist—though one is most likely
 
-### Why the Dawn Fell Apart
+## Why the Dawn Fell Apart
 
 They disagreed on one question:
 

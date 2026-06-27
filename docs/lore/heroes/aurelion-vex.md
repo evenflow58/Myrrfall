@@ -2,6 +2,8 @@
 title: "Aurelion Vex"
 type: "Hero"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Aurelion Vex

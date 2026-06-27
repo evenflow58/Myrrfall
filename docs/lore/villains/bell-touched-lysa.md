@@ -2,6 +2,8 @@
 title: "Bell-Touched Lysa"
 type: "Villain"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Bell-Touched Lysa

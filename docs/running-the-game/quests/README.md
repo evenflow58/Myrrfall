@@ -2,11 +2,13 @@
 title: "Quests"
 type: "Quest Index"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # Quests
 
-- [The Central Phenomenon](central-phenomenon.md)
+- [The Central Phenomenon](../../../ideas/central-phenomenon.md)
 
 ## Related Pages
 

@@ -2,6 +2,8 @@
 title: "The Hearth of Giants"
 type: "Location"
 status: "Canon"
+audience: "DM"
+spoilers: true
 ---
 
 # The Hearth of Giants

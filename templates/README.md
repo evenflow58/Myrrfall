@@ -2,6 +2,8 @@
 title: "Templates"
 type: "Template Index"
 status: "Reference"
+audience: "All"
+spoilers: false
 ---
 
 # Templates
