@@ -128,7 +128,6 @@ This harmonic becomes important later in the campaign when the party begins unco
 
 ## Connections
 
-- [The Prism Jacks](prism-jacks.md)
 - [The Coil Yard](coil-yard.md)
 - [The Shattermarket](shattermarket.md)
 - [The Lantern Archive](lantern-archive.md)
@@ -142,6 +141,7 @@ This harmonic becomes important later in the campaign when the party begins unco
 ## Related Pages
 
 - [Session 2: The Prism Expanse](README.md)
+- [The Prism Jacks](prism-jacks.md)
 - [Glasslight Hearth](glasslight-hearth.md)
 - [The Glasswood Child](glasswood-child.md)
 - [The Echo Crucible](echo-crucible.md)
