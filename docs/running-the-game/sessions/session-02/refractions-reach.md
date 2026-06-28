@@ -1,11 +1,10 @@
 ---
-
 title: "Refraction's Reach"
 type: "Location"
 status: "Canon"
 audience: "DM"
 spoilers: true
---------------
+---
 
 # Refraction's Reach
 
@@ -15,11 +14,11 @@ Refraction's Reach is the first permanent settlement the party encounters within
 
 Although the town appears prosperous, every resident understands that its survival depends upon technology that is beginning to fail.
 
-**Atmosphere**
+### Atmosphere
 
-* Industrious
-* Hopeful but anxious
-* Arcane technology mixed with rugged practicality
+- Industrious
+- Hopeful but anxious
+- Arcane technology mixed with rugged practicality
 
 ---
 
@@ -43,25 +42,25 @@ Although the town appears prosperous, every resident understands that its surviv
 
 ### Sights
 
-* Crystal streets laced with glowing blue veins.
-* Brass pipes carrying steam between workshops.
-* Resonance pylons surrounding the settlement.
-* Lanterns glowing with captured crystal light.
-* Engineers and laborers constantly repairing equipment.
+- Crystal streets laced with glowing blue veins.
+- Brass pipes carrying steam between workshops.
+- Resonance pylons surrounding the settlement.
+- Lanterns glowing with captured crystal light.
+- Engineers and laborers constantly repairing equipment.
 
 ### Sounds
 
-* A constant harmonic hum from the pylons.
-* Steam vents releasing pressure.
-* Metal striking metal from distant workshops.
-* Occasional crackles of unstable arcane energy.
+- A constant harmonic hum from the pylons.
+- Steam vents releasing pressure.
+- Metal striking metal from distant workshops.
+- Occasional crackles of unstable arcane energy.
 
 ### Smells
 
-* Hot brass.
-* Ozone.
-* Burning crystal dust.
-* Machine oil.
+- Hot brass.
+- Ozone.
+- Burning crystal dust.
+- Machine oil.
 
 ---
 
@@ -75,10 +74,10 @@ The ring is surrounded by four resonance pylons that stabilize portal travel and
 
 **Details**
 
-* Chalkboards covered with resonance calculations.
-* Tools and spare crystal components scattered nearby.
-* Apprentices constantly recording portal readings.
-* The smell of ozone lingers in the air.
+- Chalkboards covered with resonance calculations.
+- Tools and spare crystal components scattered nearby.
+- Apprentices constantly recording portal readings.
+- The smell of ozone lingers in the air.
 
 ### Storm Barrier
 
@@ -90,11 +89,8 @@ Residents rarely discuss the possibility of failure—but everyone watches the p
 
 ## NPCs Present
 
-The following NPCs are commonly found near the portal upon the party's arrival.
-
-* *(Link to Arrival Engineer)*
-* *(Link to Apprentice)*
-* *(Additional NPCs as needed)*
+- Arrival Engineer *(link)*
+- Apprentice *(link)*
 
 ---
 
@@ -102,13 +98,13 @@ The following NPCs are commonly found near the portal upon the party's arrival.
 
 Players may naturally choose to:
 
-* Speak with the engineers.
-* Ask about the surrounding storms.
-* Investigate the resonance equipment.
-* Look for food, lodging, or supplies.
-* Explore the town.
-* Seek work.
-* Ask about recent visitors.
+- Speak with the engineers.
+- Ask about the surrounding storms.
+- Investigate the resonance equipment.
+- Look for food, lodging, or supplies.
+- Explore the town.
+- Seek work.
+- Ask about recent visitors.
 
 ---
 
@@ -132,22 +128,20 @@ This harmonic becomes important later in the campaign when the party begins unco
 
 ## Connections
 
-The following locations can be reached directly from Refraction's Reach.
-
-* [The Prism Jacks](prism-jacks.md)
-* [The Coil Yard](coil-yard.md)
-* [The Shattermarket](shattermarket.md)
-* [The Lantern Archive](lantern-archive.md)
-* [The Stormline Tavern](stormline-tavern.md)
-* [The Shardfall Fields](shardfall-fields.md)
-* [The Glasswood Refuge](glasswood-refuge.md)
-* [The Eastern Pylon](eastern-pylon.md)
+- [The Prism Jacks](prism-jacks.md)
+- [The Coil Yard](coil-yard.md)
+- [The Shattermarket](shattermarket.md)
+- [The Lantern Archive](lantern-archive.md)
+- [The Stormline Tavern](stormline-tavern.md)
+- [The Shardfall Fields](shardfall-fields.md)
+- [The Glasswood Refuge](glasswood-refuge.md)
+- [The Eastern Pylon](eastern-pylon.md)
 
 ---
 
 ## Related Pages
 
-* [Session 2: The Prism Expanse](README.md)
-* [Glasslight Hearth](glasslight-hearth.md)
-* [The Glasswood Child](glasswood-child.md)
-* [The Echo Crucible](echo-crucible.md)
+- [Session 2: The Prism Expanse](README.md)
+- [Glasslight Hearth](glasslight-hearth.md)
+- [The Glasswood Child](glasswood-child.md)
+- [The Echo Crucible](echo-crucible.md)
