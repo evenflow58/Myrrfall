@@ -134,6 +134,7 @@ This harmonic becomes important later in the campaign when the party begins unco
 
 The following locations can be reached directly from Refraction's Reach.
 
+* [The Prism Jacks](prism-jacks.md)
 * [The Coil Yard](coil-yard.md)
 * [The Shattermarket](shattermarket.md)
 * [The Lantern Archive](lantern-archive.md)
@@ -147,7 +148,6 @@ The following locations can be reached directly from Refraction's Reach.
 ## Related Pages
 
 * [Session 2: The Prism Expanse](README.md)
-* [The Prism Jacks](prism-jacks.md)
 * [Glasslight Hearth](glasslight-hearth.md)
 * [The Glasswood Child](glasswood-child.md)
 * [The Echo Crucible](echo-crucible.md)
