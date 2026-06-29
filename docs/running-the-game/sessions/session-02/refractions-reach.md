@@ -132,12 +132,7 @@ This harmonic becomes important later in the campaign when the party begins unco
 - [The Shattermarket](shattermarket.md)
 - [The Lantern Archive](lantern-archive.md)
 - [The Stormline Tavern](stormline-tavern.md)
-- [The Shardfall Fields](shardfall-fields.md)
-- [The Glasswood Refuge](glasswood-refuge.md)
-- [The Eastern Pylon](eastern-pylon.md)
-
 ---
-
 ## Related Pages
 
 - [Session 2: The Prism Expanse](README.md)
@@ -145,3 +140,6 @@ This harmonic becomes important later in the campaign when the party begins unco
 - [Glasslight Hearth](glasslight-hearth.md)
 - [The Glasswood Child](glasswood-child.md)
 - [The Echo Crucible](echo-crucible.md)
+- [The Shardfall Fields](shardfall-fields.md)
+- [The Glasswood Refuge](glasswood-refuge.md)
+- [The Eastern Pylon](eastern-pylon.md)
