@@ -16,6 +16,10 @@ spoilers: true
 
 - Who dispatched him?
 
+## The Glasswood Chain (locked sequence)
+
+Refraction's Reach → **Glasswood Refuge** (the party meets Iri there; the Glasswood Child trigger fires at the Refuge) → **Eastern Pylon** (finale; Iri's outcome resolves there). The party's alternate destination offer is the Echo Crucible.
+
 ## Related Pages
 
 - [The Prism Expanse](../../../lore/world/prism-expanse.md)

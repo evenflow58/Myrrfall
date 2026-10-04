@@ -14,9 +14,11 @@ A small settlement built from translucent, magically hardened trees.
 
 The inhabitants harvest prism-glass sap and survive by predicting magic fluctuations.
 
+**Chain position (locked):** This is where the party meets Iri. [The Glasswood Child](glasswood-child.md) trigger fires here at the Refuge; the Shaping the Glasswood event below fills the party's wait for news about the child; the caretaker's clue then sends the party on to [The Eastern Pylon](eastern-pylon.md), where Iri's outcome resolves.
+
 ## Mini Event: Shaping the Glasswood
 
-**Location:** Sapglass Workshop **NPC Host:** Mira Quillspindle (gnome artificer)
+**Location:** Sapglass Workshop **NPC Host:** Lysa Vant (craft guide)
 
 This event can happen while the party is waiting for news about the unstable child, or simply while exploring the refuge.
 
@@ -168,7 +170,7 @@ On Failure trigger a Complication
 
 #### NPC: Craft Guide
 
-**Name:** Lysa Vant Quiet, sharp-eyed, always watching the wood more than the people.
+**Name:** Lysa Vant — craft guide of the Sapglass Workshop. (Distinct from **Mira Quillspindle**, the Refuge's host and resident gnome artificer, who oversees the settlement.) Quiet, sharp-eyed, always watching the wood more than the people.
 
 **Flavor Line:**  “Most folk try to force it. That’s why most folk fail.”
 
@@ -176,7 +178,7 @@ On Failure trigger a Complication
 
 #### Bonus Roleplay Moments
 
-During crafting Mira might mention:
+During crafting Lysa might mention:
 
 - Glasswood only grows where **wild magic breathes**
 

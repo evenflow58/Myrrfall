@@ -10,6 +10,8 @@ spoilers: true
 
 You want this to *interrupt normal play*, not feel like a quest giver.
 
+**Where this happens (locked):** The Glasswood Refuge. Iri lives at the Refuge, and the trigger below fires while the party is there — the flare goes up between the Refuge's glasswood buildings. The chain runs: party arrives at the Refuge → meets Iri here → the Eastern Pylon, where her outcome is resolved (see [The Eastern Pylon](eastern-pylon.md)).
+
 ## Read Aloud (Trigger Moment)
 
 A sharp crack splits the air—like glass snapping under pressure.
@@ -130,7 +132,7 @@ They need:
 
 ### Solution:
 
-Repair / stabilize the **Shardfall-adjacent pylon**
+Repair / stabilize the **Eastern Pylon**. It is the source of the pressure bearing down on Iri — its altered rings are broadcasting the same artificial frequency found at Shardfall. Stabilizing the Shardfall-adjacent pylon alone will not relieve her while the Eastern Pylon keeps pulsing.
 
 ### ADDING EMOTIONAL WEIGHT
 

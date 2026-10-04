@@ -12,6 +12,8 @@ The ground ahead fractures into a jagged clearing where the eastern pylon leans 
 
 ## Location & Setup
 
+**Chain position (locked):** Finale of the Glasswood chain. The party meets Iri at the [Glasswood Refuge](glasswood-refuge.md) (see [The Glasswood Child](glasswood-child.md)); her caretaker reports this pylon flickering and a team sent to check it, and the Iri outcome section below assumes her instability is tied to this pylon. The party may also arrive here independently — e.g. following the altered-ring evidence from Shardfall — in which case run the stabilization challenge without the Iri finale.
+
 - The pylon is **half-buried in fractured crystal terrain**, humming with unstable resonance.
 
 - Magic pulses in **rhythmic waves**, visible as shifting patterns on the ground and in the air.
