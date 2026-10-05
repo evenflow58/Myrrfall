@@ -27,6 +27,7 @@ Refraction's Reach → **Glasswood Refuge** (the party meets Iri there; the Glas
 - [The Prism Jacks](prism-jacks.md)
 - [The Coil Yard](coil-yard.md)
 - [Mira's Price](miras-price.md)
+- [Mira's Price — 90-Minute Cut](miras-price-90-minute.md)
 - [The Shattermarket](shattermarket.md)
 - [The Lantern Archive](lantern-archive.md)
 - [The Stormline Tavern](stormline-tavern.md)
