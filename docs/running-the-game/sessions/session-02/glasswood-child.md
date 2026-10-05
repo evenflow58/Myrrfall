@@ -24,7 +24,7 @@ Then—silence, except for the low hum of unstable magic.
 
 ### THE CHILD
 
-**Name:** Iri Vale (or similar—soft, grounded name)
+**Name (locked):** Iri Vale
 
 **What’s happening:**
 
